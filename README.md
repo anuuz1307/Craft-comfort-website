@@ -1,2 +1,2 @@
 # Craft-comfort-website
-Developed website using HTML CSS for business purpose 
+Developed website using HTML | CSS | JS
